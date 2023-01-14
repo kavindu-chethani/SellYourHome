@@ -1,0 +1,55 @@
+/*=============== HEADER ===============*/
+.header {
+    width: 100%;
+    background-color:#0096FF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: var(--z-fixed);
+    transition: .5s;
+  }
+  /*=============== About US ===============*/
+  .aboutUs{
+    margin-top: 8%;
+    text-align: center;
+  }
+/* addhome */
+  .content {
+    max-width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background: #ecf0f3;
+    border-radius: 20px;
+    padding: 40px;
+    position: relative;
+    margin-top: 3%;
+
+}
+.ui button blue{
+
+background-color: yellow;
+position: center;
+}
+.ui main{
+background-color: grey;
+}
+.img{
+text-align: center;
+
+}
+
+/* table */
+.card-body{
+  background: #ecf0f3;
+  padding: 40px;
+  
+ 
+}
+
+.button{
+  display: inline-block;
+}
+.button.left{
+  align-items: left;
+}
